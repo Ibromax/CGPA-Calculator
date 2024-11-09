@@ -1,0 +1,2 @@
+# CGPA-Calculator
+ The CGPA Calculator is a web-based application designed to help users calculate their Cumulative Grade Point Average (CGPA) quickly and accurately. Users can enter the number of subjects, specify the course details, credits, and grades (with a grading system where A = 5, B = 4, C = 3, D = 2, and E = 1), and receive an instant calculation of their CGPA. The application is built using HTML, CSS, Bootstrap, and JavaScript to provide a clean, responsive, and user-friendly experience.
