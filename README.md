@@ -1,2 +1,28 @@
-# CGPA-Calculator
- The CGPA Calculator is a web-based application designed to help users calculate their Cumulative Grade Point Average (CGPA) quickly and accurately. Users can enter the number of subjects, specify the course details, credits, and grades (with a grading system where A = 5, B = 4, C = 3, D = 2, and E = 1), and receive an instant calculation of their CGPA. The application is built using HTML, CSS, Bootstrap, and JavaScript to provide a clean, responsive, and user-friendly experience.
+# CGPA Calculator
+
+A web-based CGPA Calculator designed to help users calculate their Cumulative Grade Point Average using a simple grading system. The application allows users to input subject details, credits, and grades, providing an instant CGPA calculation.
+
+## Features
+
+- **Dynamic Subject Input**: Users can specify the number of subjects, and the form will automatically generate input fields for each subject.
+- **Customizable Grade Selection**: Grade selection is based on a grading system where:
+  - A = 5
+  - B = 4
+  - C = 3
+  - D = 2
+  - E = 1
+- **Responsive Design**: The app is built using Bootstrap for a clean, responsive interface.
+- **Real-Time CGPA Calculation**: Calculates and displays the CGPA immediately after input submission.
+
+## Technologies Used
+
+- **HTML5**: For structuring the web content.
+- **CSS3**: For styling and layout.
+- **Bootstrap 5**: For a responsive and consistent design.
+- **JavaScript**: For dynamic behavior and real-time CGPA calculation.
+
+## Installation and Usage
+
+1. **Clone the repository** (or download the project files):
+   ```bash
+   git clone https://github.com/Ibromax/cgpa-calculator.git
